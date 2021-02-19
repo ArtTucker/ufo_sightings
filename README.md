@@ -1,6 +1,8 @@
 # UFO Sightings
 Displaying and filtering UFO sightings data with javascript, Bootstrap, and DOM manipulation.
 
+This project has been deployed [at this site](https://arttucker.github.io/ufo_sightings/).
+
 ## Overview
 The focus of this project was to build a visually appealing web page featuring dynamically filtered tabular data in a user-friendly interface. The tools used included HTML, Bootstrap, Javascript, and DOM manipulation. The framework for the project was to feature feature a searchable table of UFO sightings data.
 
